@@ -1,0 +1,13 @@
+SAVE THESE FILES for Module 2.
+Data source: Simulated community-workshop data (not real observations)
+Simulated period: May 2026 to October 2026
+Selected chart month: October 2026
+
+tableau_workshops_tidy.csv: Import this complete dataset into Tableau.
+m01_after_chart.png: Compare your Tableau chart with this improved Python chart.
+m01_claim_check.csv: Compare the actual Tableau values with these checked values.
+
+In Tableau, use the selected month shown above for the attendance chart.
+For the DSC 563 extension, use all months in the dataset and the observed-month calculations in the Module 2 directions.
+Keep the saved files together. Do not change month labels to the current month in Module 2.
+Follow the Module 2 Moodle directions for the Tableau task and submission.
